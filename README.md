@@ -22,7 +22,7 @@
 
 <br />
 
-# General Information for README or Commit Message:
+# General Information :
 ## Technology Stack:
 
   * Java with Selenium 4.25.
