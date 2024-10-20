@@ -18,7 +18,7 @@
   * Automated the guest registration form at [Registration-form](https://demo.wpeverest.com/user-registration/guest-registration-form/)
   * Filled in the following fields: First Name, Last Name, Email, Password, Gender, Date of Birth, Nationality, Phone, and selected Country (Bangladesh).
   * Submitted the form successfully.
-  * Submitted the form successfully.
+  * Asserted the success message: "Registration successful" after submission.
 
 <br />
 
