@@ -1,4 +1,4 @@
-# Jumit_Project
+# Junit_Project
 ### In this project automated tests are conducted in two classes on two websites
 ### One website about Webform on Digital Unite another one about the Guest Registration Form  
 <br />
